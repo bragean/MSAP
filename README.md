@@ -1,7 +1,7 @@
 # MSAP
 Software for managment and acreditacion process
 
-#REQUERMINETS
+# REQUERMINETS
 dataclasses==0.6
 Django==2.2.2
 django-cors-headers==3.0.2
@@ -17,5 +17,5 @@ pytz==2019.1
 six==1.12.0
 sqlparse==0.2.4
 
-#Arquitecture
+# Arquitecture
 Django Rest + Mongo DB
